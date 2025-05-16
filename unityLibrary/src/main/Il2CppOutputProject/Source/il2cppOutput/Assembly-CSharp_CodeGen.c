@@ -1,0 +1,89 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void ButtonPromptManager_Start_mDDF0DE87472A2C39C46C60D72900CA18B30FB58E (void);
+extern void ButtonPromptManager_ShowPrompt_m569CA5CC7B2CBD51612D8790D2323733688615C6 (void);
+extern void ButtonPromptManager_HidePromptAfterDelay_m94BFB8BC393C71923DC40D36E2B6B71857DAADE3 (void);
+extern void ButtonPromptManager__ctor_mF8665F835DC7A4AD42FB330D18006120C2DF57D1 (void);
+extern void ButtonPromptManager_U3CStartU3Eb__6_0_mC441E1FB03A9F3A7A66FB74726037A927605ABA0 (void);
+extern void ButtonPromptManager_U3CStartU3Eb__6_1_mCA2C117EF2124CB6DD1B066249F2DDCBDACE948F (void);
+extern void ButtonPromptManager_U3CStartU3Eb__6_2_mA439143A51617247B12C956E89F33C677A9F2A17 (void);
+extern void ButtonPromptManager_U3CStartU3Eb__6_3_m76C157A52A616E517DE08635FF0A62FABEDDFD16 (void);
+extern void U3CHidePromptAfterDelayU3Ed__8__ctor_m48E6A00CDCBCFE796D91691F8C00071E5D3A2BAA (void);
+extern void U3CHidePromptAfterDelayU3Ed__8_System_IDisposable_Dispose_m3638727A9DE6A56A2576153BF24B11E7E9F15358 (void);
+extern void U3CHidePromptAfterDelayU3Ed__8_MoveNext_m08FEA240084B7F6CAAE457EA7D8D42747E85DA87 (void);
+extern void U3CHidePromptAfterDelayU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB2A5C6393F739769C144C4EC663ADE4596367205 (void);
+extern void U3CHidePromptAfterDelayU3Ed__8_System_Collections_IEnumerator_Reset_m5B3DEA178790B0FBDA6BFF31F764EBE37E7098F1 (void);
+extern void U3CHidePromptAfterDelayU3Ed__8_System_Collections_IEnumerator_get_Current_m39EFDE6F1F5C4EF9CA15566775B4288624734F44 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[16] = 
+{
+	ButtonPromptManager_Start_mDDF0DE87472A2C39C46C60D72900CA18B30FB58E,
+	ButtonPromptManager_ShowPrompt_m569CA5CC7B2CBD51612D8790D2323733688615C6,
+	ButtonPromptManager_HidePromptAfterDelay_m94BFB8BC393C71923DC40D36E2B6B71857DAADE3,
+	ButtonPromptManager__ctor_mF8665F835DC7A4AD42FB330D18006120C2DF57D1,
+	ButtonPromptManager_U3CStartU3Eb__6_0_mC441E1FB03A9F3A7A66FB74726037A927605ABA0,
+	ButtonPromptManager_U3CStartU3Eb__6_1_mCA2C117EF2124CB6DD1B066249F2DDCBDACE948F,
+	ButtonPromptManager_U3CStartU3Eb__6_2_mA439143A51617247B12C956E89F33C677A9F2A17,
+	ButtonPromptManager_U3CStartU3Eb__6_3_m76C157A52A616E517DE08635FF0A62FABEDDFD16,
+	U3CHidePromptAfterDelayU3Ed__8__ctor_m48E6A00CDCBCFE796D91691F8C00071E5D3A2BAA,
+	U3CHidePromptAfterDelayU3Ed__8_System_IDisposable_Dispose_m3638727A9DE6A56A2576153BF24B11E7E9F15358,
+	U3CHidePromptAfterDelayU3Ed__8_MoveNext_m08FEA240084B7F6CAAE457EA7D8D42747E85DA87,
+	U3CHidePromptAfterDelayU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mB2A5C6393F739769C144C4EC663ADE4596367205,
+	U3CHidePromptAfterDelayU3Ed__8_System_Collections_IEnumerator_Reset_m5B3DEA178790B0FBDA6BFF31F764EBE37E7098F1,
+	U3CHidePromptAfterDelayU3Ed__8_System_Collections_IEnumerator_get_Current_m39EFDE6F1F5C4EF9CA15566775B4288624734F44,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[16] = 
+{
+	4412,
+	3594,
+	3163,
+	4412,
+	4412,
+	4412,
+	4412,
+	4412,
+	3569,
+	4412,
+	4240,
+	4314,
+	4412,
+	4314,
+	6410,
+	4412,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	16,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
